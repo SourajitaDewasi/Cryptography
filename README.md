@@ -4,3 +4,5 @@ Algorithms studied during the Cryptography Course
 1. Caesar Cipher
 2. Multiplicative Cipher
 3. Affine Cipher
+4. Diffie-Hellmen Cipher
+5. Keyless Cipher
