@@ -1,5 +1,4 @@
 //Delfie-Hellmen Cipher 
-//Name: Sourajita Dewasi (191000050)
 #include <iostream>
 using namespace std;
 
