@@ -1,3 +1,7 @@
+//Sourajita Dewasi
+//Initial and Final Permutation of DES
+//Here each character is assumed to be of 1 bit to make the crypto concept clear instead of 1 byte, which would mean converting the entire text to binary and then permuting it
+
 #include <iostream>
 using namespace std;
 
