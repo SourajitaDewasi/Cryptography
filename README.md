@@ -7,3 +7,4 @@ Algorithms studied during the Cryptography Course
 4. Diffie-Hellmen Cipher
 5. Keyless Cipher
 6. Initial and Final Permutation of DES
+7. Round 1 of DES Key Generation
