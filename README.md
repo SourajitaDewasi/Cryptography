@@ -11,5 +11,5 @@ Algorithms studied during the Cryptography Course
 8. Round 1 to 16 of DES Key Generation
 
 
-##Caesar Cipher
+## Caesar Cipher
 A type of substitution cipher 
