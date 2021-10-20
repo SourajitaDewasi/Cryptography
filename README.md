@@ -9,7 +9,7 @@ Algorithms studied during the Cryptography Course
 6. Initial and Final Permutation of DES
 7. Round 1 of DES Key Generation
 8. Round 1 to 16 of DES Key Generation
-
+9. S-Box of DES Algorithm
 
 ## Caesar Cipher
 A type of substitution cipher 
