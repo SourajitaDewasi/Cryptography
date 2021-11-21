@@ -13,6 +13,7 @@ Algorithms studied during the Cryptography Course
 10. Encryption in DES ALgorithm
 11. Hill Cipher
 12. Key Generation in AES Algorithm
+13. RSA Cipher
 
 ## Caesar Cipher
 A type of substitution cipher 
