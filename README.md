@@ -42,3 +42,5 @@ A type of substitution cipher
 
 ## RSA Cipher
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/RSA%20Cipher.cpp)
+It was devised by three scientists Rivest, Shamir and Adleman. It is based on Factorization Problem where number of bits must be atleast 1024 for a secured RSA.
+In the solution there has been the use of a small prime integer.
