@@ -14,6 +14,8 @@ Algorithms studied during the Cryptography Course
 11. Hill Cipher
 12. Key Generation in AES Algorithm
 13. RSA Cipher
+14. Elgamal Cipher
+15. 
 
 ## Caesar Cipher
 A type of substitution cipher 
