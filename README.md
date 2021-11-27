@@ -15,7 +15,7 @@ Algorithms studied during the Cryptography Course
 12. Key Generation in AES Algorithm
 13. RSA Cipher
 14. Elgamal Cipher
-15. 
+15. ECC Cipher
 
 ## Caesar Cipher
 A type of substitution cipher 
@@ -47,3 +47,7 @@ A type of substitution cipher
 
 It was devised by three scientists Rivest, Shamir and Adleman. It is based on Factorization Problem where number of bits must be atleast 1024 for a secured RSA.
 In the solution there has been the use of a small prime integer.
+
+## Elgamal Cipher
+
+## ECC Cipher
