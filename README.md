@@ -14,7 +14,7 @@ Algorithms studied during the Cryptography Course
 11. Hill Cipher
 12. Key Generation in AES Algorithm
 13. RSA Cipher
-14. Elgamal Cipher
+14. Elgamal Cipher [Reference Link](https://github.com/DhruvDixitDD/ElGamal-based-Elliptic-Curve-Cryptography/blob/master/ElgamalEllipticCurve.cpp![image](https://user-images.githubusercontent.com/89794866/144760795-a8e2ba1c-8bee-41a5-9562-11eb07c6dfde.png)
 15. ECC Cipher
 
 ## Caesar Cipher
