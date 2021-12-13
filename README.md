@@ -49,6 +49,7 @@ It was devised by three scientists Rivest, Shamir and Adleman. It is based on Fa
 In the solution there has been the use of a small prime integer.
 
 ## Elgamal Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ECC_Cipher.c)
+
 
 ## ECC Cipher
+[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ECC_Cipher.c)
