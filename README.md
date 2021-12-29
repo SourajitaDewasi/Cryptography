@@ -22,13 +22,13 @@ A type of substitution cipher
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Additive%20Cipher.c)
 
 ## Multiplicative Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
 ## Affine Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
 ## Diffie-Hellmen Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Diffie%20Hellmen%20Cipher.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Diffie%20Hellmen%20Cipher.cpp)
 
 ## Keyless Cipher
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
