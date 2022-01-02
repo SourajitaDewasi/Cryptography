@@ -50,6 +50,10 @@ In the solution there has been the use of a small prime integer.
 
 ## Elgamal Cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ELgamal%20Crypto%20System.cpp)
+ElGamal cryptosystem is a cryptography algorithm that secures communication between two systems by utilising public and private key principles.
+It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information.
+The client uses the public key to encrypt the message, and the message may be decrypted using the private key on the server end.
+Because the keys are incredibly difficult to guess, this is considered an efficient approach for encryption and decryption. 
 
 ## ECC Cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ECC_Cipher.c)
