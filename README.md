@@ -43,13 +43,14 @@ A type of substitution cipher
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
 
 ## RSA Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/RSA%20Cipher.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/RSA%20Cipher.cpp)
 
 It was devised by three scientists Rivest, Shamir and Adleman. It is based on Factorization Problem where number of bits must be atleast 1024 for a secured RSA.
 In the solution there has been the use of a small prime integer.
 
 ## Elgamal Cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ELgamal%20Crypto%20System.cpp)
+
 ElGamal cryptosystem is a cryptography algorithm that secures communication between two systems by utilising public and private key principles.
 It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information.
 The client uses the public key to encrypt the message, and the message may be decrypted using the private key on the server end.
