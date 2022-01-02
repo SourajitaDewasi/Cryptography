@@ -19,7 +19,7 @@ Algorithms studied during the Cryptography Course
 
 ## Caesar Cipher
 A type of substitution cipher 
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Additive%20Cipher.c)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Additive%20Cipher.c)
 
 ## Multiplicative Cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
@@ -31,7 +31,7 @@ A type of substitution cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Diffie%20Hellmen%20Cipher.cpp)
 
 ## Keyless Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
 
 ## DES Algorithm
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
