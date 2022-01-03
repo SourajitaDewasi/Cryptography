@@ -37,10 +37,10 @@ A type of substitution cipher
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
 
 ## Hill Cipher
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
 
 ## AES Algorithm
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
 
 ## RSA Cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/RSA%20Cipher.cpp)
