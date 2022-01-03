@@ -37,6 +37,11 @@ A type of substitution cipher
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
 
 ## Hill Cipher
+Hill cypher is a polygraphic substitution cypher.
+A number modulo 26 is assigned to each letter.
+The basic scheme A = 0, B = 1,..., Z = 25 is frequently employed, but it is not a requirement of the encryption.
+Each block of n letters (considered an n-component vector) is multiplied by an invertible n n matrix against modulus 26 to encrypt a message.
+Each block is multiplied by the inverse of the encryption matrix to decrypt the message. 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
 
 ## AES Algorithm
