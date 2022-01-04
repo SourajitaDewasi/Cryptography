@@ -39,7 +39,7 @@ It's a symmetric key algorithm, which means it encrypts and decrypts data with t
 The 16 48-bit keys' sequence is reversed, so key 16 becomes key 1, and so forth.
 The encryption processes are then applied to the ciphertext. 
 
-[Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
+[Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
 
 ## Hill Cipher
 Hill cypher is a polygraphic substitution cypher.
