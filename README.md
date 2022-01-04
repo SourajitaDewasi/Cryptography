@@ -34,6 +34,11 @@ A type of substitution cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
 
 ## DES Algorithm
+The Data Encryption Standard (DES) is a block cypher technique that converts plain text in 64-bit blocks to ciphertext using 48-bit keys.
+It's a symmetric key algorithm, which means it encrypts and decrypts data with the same key.
+The 16 48-bit keys' sequence is reversed, so key 16 becomes key 1, and so forth.
+The encryption processes are then applied to the ciphertext. 
+
 [Reference Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
 
 ## Hill Cipher
