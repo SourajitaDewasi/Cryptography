@@ -28,7 +28,7 @@ A type of substitution cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
 ## Diffie-Hellmen Cipher
-Diffie Hellmen Cipher is an exponential key cipher. It is a method of digital encryption. The end users Alice and Bob agree on positive whole numbers p and q, such that p is a prime number and q is a generator of p, while communicating through a channel they know is private. When raised to positive whole-number powers less than p, the generator q never generates the same result for any two such whole numbers. lthough the value of p can be rather large, the value of q is usually quite low. 
+Diffie Hellmen Cipher is an exponential key cipher. It is a method of digital encryption. In this case the end users Alice and Bob agree on using positive whole numbers p and q, such that p is a prime number and q is a generator of p, while communicating through a channel they know is private. When raised to positive whole-number powers less than p, the generator q never generates the same result for any two such whole numbers. lthough the value of p can be rather large, the value of q is usually quite low. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Diffie%20Hellmen%20Cipher.cpp)
 
