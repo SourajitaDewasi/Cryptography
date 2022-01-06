@@ -25,6 +25,7 @@ A type of substitution cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
 ## Affine Cipher
+Affine Cipher is a form of Monoalphabetic Substituiton cypher that uses a mathematical encryption approach. The entire procedure is based on working modulo m (the length of the alphabet used). The letters of an alphabet of size m are first mapped to integers in the range 0... m-1 in the affine cypher. The Affine cipher key is made up of two numbers, which we'll refer to as a and b. It follows assumes a 26-character alphabet (m = 26). a should be chosen to be close to m in terms of primness (i.e. a should have no factors in common with m). 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
 ## Diffie-Hellmen Cipher
