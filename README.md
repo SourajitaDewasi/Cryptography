@@ -14,7 +14,7 @@ Algorithms studied during the Cryptography Course
 11. Hill Cipher
 12. Key Generation in AES Algorithm
 13. RSA Cipher
-14. Elgamal Cipher [Code Reference Link](https://github.com/DhruvDixitDD/ElGamal-based-Elliptic-Curve-Cryptography/blob/master/ElgamalEllipticCurve.cpp)
+14. Elgamal Cipher 
 15. ECC Cipher
 
 ## Caesar Cipher
@@ -66,6 +66,7 @@ In the solution there has been the use of a small prime integer.
 
 ## Elgamal Cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ELgamal%20Crypto%20System.cpp)
+[Code Reference Link](https://github.com/DhruvDixitDD/ElGamal-based-Elliptic-Curve-Cryptography/blob/master/ElgamalEllipticCurve.cpp)
 
 ElGamal cryptosystem is a cryptography algorithm that secures communication between two systems by utilising public and private key principles.
 It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information.
