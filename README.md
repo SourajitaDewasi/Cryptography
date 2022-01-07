@@ -44,6 +44,8 @@ The text is written row by row into the table and then transferred column by col
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
 
+[Definition Reference Link](https://www.ques10.com/p/3454/what-is-keyless-transposition-cipher-give-an-exa-1/)
+
 ## DES Algorithm
 The Data Encryption Standard (DES) is a block cypher technique that converts plain text in 64-bit blocks to ciphertext using 48-bit keys.
 It's a symmetric key algorithm, which means it encrypts and decrypts data with the same key.
