@@ -39,9 +39,9 @@ a* = qa mod p and b* = qb mod p
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Diffie%20Hellmen%20Cipher.cpp)
 
 ## Keyless Cipher
-The keyless transportation cipher is a type of encryption.
-The text is written into a table column by column and then row by row in the first technique.
+The keyless transportation cipher is a type of encryption. The text is written into a table column by column and then row by row in the first technique.
 The text is written row by row into the table and then transferred column by column in the second manner. 
+
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
 
 ## DES Algorithm
