@@ -23,7 +23,9 @@ A type of substitution cipher
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Additive%20Cipher.c)
 
 ## Multiplicative Cipher
+Encrypting and decrypting symbols with the Caesar cypher technique entails transforming the values into integers using a simple addition or subtraction procedure.
 
+A wrap-around situation occurs when multiplication is employed to convert to encrypted text. A multiplicative cypher has the advantage of being able to work with very big keys. A computer would take a long time to brute-force its way through a majority of nine million keys.
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
 ## Affine Cipher
