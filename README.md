@@ -27,6 +27,8 @@ Encrypting and decrypting symbols with the Caesar cypher technique entails trans
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Affine%20Cipher.cpp)
 
+[Definition Reference Link](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_multiplicative_cipher.htm)
+
 ## Affine Cipher
 Affine Cipher is a form of Monoalphabetic Substituiton cypher that uses a mathematical encryption approach. The entire procedure is based on working modulo m (the length of the alphabet used). The letters of an alphabet of size m are first mapped to integers in the range 0... m-1 in the affine cypher. The Affine cipher key is made up of two numbers, which we'll refer to as a and b. It follows assumes a 26-character alphabet (m = 26). a should be chosen to be close to m in terms of primness (i.e. a should have no factors in common with m). 
 
@@ -76,8 +78,7 @@ In the solution there has been the use of a small prime integer.
 
 ## Elgamal Cipher
 ElGamal cryptosystem is a cryptography algorithm that secures communication between two systems by utilising public and private key principles.
-It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information.
-The client uses the public key to encrypt the message, and the message may be decrypted using the private key on the server end.
+It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information. The client uses the public key to encrypt the message, and the message may be decrypted using the private key on the server end.
 Because the keys are incredibly difficult to guess, this is considered an efficient approach for encryption and decryption. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ELgamal%20Crypto%20System.cpp)
