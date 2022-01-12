@@ -18,7 +18,7 @@ Algorithms studied during the Cryptography Course
 15. ECC Cipher
 
 ## Caesar Cipher
-A type of substitution cipher 
+The Caesar Cipher is one of the earliest encryption methods. It's a substitution cypher, in which each letter of a given text is substituted by a letter located a certain number of positions down the alphabet. With a shift of one, for example, A would be replaced by B, B by C, and so on. To encrypt a given text, we need an integer value called shift, which tells how far down each letter of the text has been shifted. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Additive%20Cipher.c)
 
