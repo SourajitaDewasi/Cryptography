@@ -21,7 +21,9 @@ Algorithms studied during the Cryptography Course
 The Caesar Cipher is one of the earliest encryption methods. It's a substitution cypher, in which each letter of a given text is substituted by a letter located a certain number of positions down the alphabet. With a shift of one, for example, A would be replaced by B, B by C, and so on. To encrypt a given text, we need an integer value called shift, which tells how far down each letter of the text has been shifted. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Additive%20Cipher.c)
+
 [Definition Reference Link](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
+
 ## Multiplicative Cipher
 Encrypting and decrypting symbols with the Caesar cypher technique entails transforming the values into integers using a simple addition or subtraction procedure. A wrap-around situation occurs when multiplication is employed to convert to encrypted text. A multiplicative cypher has the advantage of being able to work with very big keys. A computer would take a long time to brute-force its way through a majority of nine million keys.
 
