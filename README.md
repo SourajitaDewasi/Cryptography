@@ -62,16 +62,14 @@ Hill cypher is a polygraphic substitution cypher. A number modulo 26 is assigned
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
 
 ## AES Algorithm
-Despite being more difficult to build, AES is frequently used today because it is substantially stronger than DES and triple DES.
-  a. The AES cypher is a block cypher.
-
-  b. The key can be 128/192/256 bits in length.
-
-  c. Data is encrypted in 128-bit blocks.
+Despite being more difficult to build, AES is frequently used today because it is substantially stronger than DES and triple DES. The AES cypher is a block cipher just like DES. The key can be 128/192/256 bits in length. Data is encrypted in 128-bit blocks.
 
 It accepts 128 bits as input and outputs 128 bits of encrypted cypher text.
 AES is based on the substitution-permutation network principle, which involves replacing and shuffling the input data through a series of connected processes. 
+
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
+
+[Reference Link]()
 
 ## RSA Cipher
 
