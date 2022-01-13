@@ -52,34 +52,24 @@ The text is written row by row into the table and then transferred column by col
 [Definition Reference Link](https://www.ques10.com/p/3454/what-is-keyless-transposition-cipher-give-an-exa-1/)
 
 ## DES Algorithm
-The Data Encryption Standard (DES) is a block cypher technique that converts plain text in 64-bit blocks to ciphertext using 48-bit keys.
-It's a symmetric key algorithm, which means it encrypts and decrypts data with the same key.
-The 16 48-bit keys' sequence is reversed, so key 16 becomes key 1, and so forth.
-The encryption processes are then applied to the ciphertext. 
+The Data Encryption Standard (DES) is a block cypher technique that converts plain text in 64-bit blocks to ciphertext using 48-bit keys. It's a symmetric key algorithm, which means it encrypts and decrypts data with the same key. The 16 48-bit keys' sequence is reversed, so key 16 becomes key 1, and so forth. The encryption processes are then applied to the ciphertext. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/DES_Encryption_Complete.cpp)
 
 ## Hill Cipher
-Hill cypher is a polygraphic substitution cypher.
-A number modulo 26 is assigned to each letter.
-The basic scheme A = 0, B = 1,..., Z = 25 is frequently employed, but it is not a requirement of the encryption.
-Each block of n letters (considered an n-component vector) is multiplied by an invertible nxn matrix against modulus 26 to encrypt a message.
-Each block is multiplied by the inverse of the encryption matrix to decrypt the message. 
+Hill cypher is a polygraphic substitution cypher. A number modulo 26 is assigned to each letter. The basic scheme A = 0, B = 1,..., Z = 25 is frequently employed, but it is not a requirement of the encryption. Each block of n letters (considered an n-component vector) is multiplied by an invertible nxn matrix against modulus 26 to encrypt a message. Each block is multiplied by the inverse of the encryption matrix to decrypt the message. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
 
 ## AES Algorithm
 Despite being more difficult to build, AES is frequently used today because it is substantially stronger than DES and triple DES.
+  a. The AES cypher is a block cypher.
 
+  b. The key can be 128/192/256 bits in length.
 
-The AES cypher is a block cypher.
+  c. Data is encrypted in 128-bit blocks.
 
-The key can be 128/192/256 bits in length.
-
-Data is encrypted in 128-bit blocks.
-
-
-That is to say, it accepts 128 bits as input and outputs 128 bits of encrypted cypher text.
+It accepts 128 bits as input and outputs 128 bits of encrypted cypher text.
 AES is based on the substitution-permutation network principle, which involves replacing and shuffling the input data through a series of connected processes. 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
 
