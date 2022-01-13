@@ -69,6 +69,18 @@ Each block is multiplied by the inverse of the encryption matrix to decrypt the 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
 
 ## AES Algorithm
+Despite being more difficult to build, AES is frequently used today because it is substantially stronger than DES and triple DES.
+
+
+The AES cypher is a block cypher.
+
+The key can be 128/192/256 bits in length.
+
+Data is encrypted in 128-bit blocks.
+
+
+That is to say, it accepts 128 bits as input and outputs 128 bits of encrypted cypher text.
+AES is based on the substitution-permutation network principle, which involves replacing and shuffling the input data through a series of connected processes. 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
 
 ## RSA Cipher
