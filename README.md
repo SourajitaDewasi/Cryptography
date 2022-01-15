@@ -44,8 +44,7 @@ a* = qa mod p and b* = qb mod p
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Diffie%20Hellmen%20Cipher.cpp)
 
 ## Keyless Cipher
-The keyless transportation cipher is a type of encryption. The text is written into a table column by column and then row by row in the first technique.
-The text is written row by row into the table and then transferred column by column in the second manner. 
+The keyless transportation cipher is a type of encryption. The text is written into a table column by column and then row by row in the first technique. The text is written row by row into the table and then transferred column by column in the second manner. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Keyless%20Cipher.cpp)
 
@@ -62,10 +61,7 @@ Hill cypher is a polygraphic substitution cypher. A number modulo 26 is assigned
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/Hill%20Cipher.cpp)
 
 ## AES Algorithm
-Despite being more difficult to build, AES is frequently used today because it is substantially stronger than DES and triple DES. The AES cypher is a block cipher just like DES. The key can be 128/192/256 bits in length. Data is encrypted in 128-bit blocks.
-
-It accepts 128 bits as input and outputs 128 bits of encrypted cypher text.
-AES is based on the substitution-permutation network principle, which involves replacing and shuffling the input data through a series of connected processes. 
+Despite being more difficult to build, AES is frequently used today because it is substantially stronger than DES and triple DES. The AES cypher is a block cipher just like DES. The key can be 128/192/256 bits in length. Data is encrypted in 128-bit blocks. It accepts 128 bits as input and outputs 128 bits of encrypted cypher text. AES is based on the substitution-permutation network principle, which involves replacing and shuffling the input data through a series of connected processes. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/AES_Key_Generation.py)
 
@@ -79,8 +75,7 @@ In the solution there has been the use of a small prime integer.
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/RSA%20Cipher.cpp)
 
 ## Elgamal Cipher
-ElGamal cryptosystem is a cryptography algorithm that secures communication between two systems by utilising public and private key principles.
-It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information. The client uses the public key to encrypt the message, and the message may be decrypted using the private key on the server end.
+ElGamal cryptosystem is a cryptography algorithm that secures communication between two systems by utilising public and private key principles. It's an asymmetric algorithm in which public and private keys are used to encrypt and decrypt information. The client uses the public key to encrypt the message, and the message may be decrypted using the private key on the server end.
 Because the keys are incredibly difficult to guess, this is considered an efficient approach for encryption and decryption. 
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ELgamal%20Crypto%20System.cpp)
