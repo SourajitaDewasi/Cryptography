@@ -83,4 +83,9 @@ Because the keys are incredibly difficult to guess, this is considered an effici
 [Code Reference Link](https://github.com/DhruvDixitDD/ElGamal-based-Elliptic-Curve-Cryptography/blob/master/ElgamalEllipticCurve.cpp)
 
 ## ECC Cipher
+Elliptic Curve Cryptography (ECC) is a key-based data encryption technology. For decryption and encryption of web traffic, ECC focuses on pairs of public and private keys.
+It uses elliptic curve mathematics to generate security between key pairs for public key encryption. ECC's approach to public key cryptography is based on the algebraic structure of elliptic curves over finite fields. As a result, ECC generates keys that are mathematically more difficult to crack. It is regarded as the next generation of public key cryptography technology. 
+
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ECC_Cipher.c)
+
+(https://avinetworks.com/glossary/elliptic-curve-cryptography/)
