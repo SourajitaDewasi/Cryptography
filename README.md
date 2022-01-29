@@ -88,4 +88,4 @@ It uses elliptic curve mathematics to generate security between key pairs for pu
 
 [Code Link](https://github.com/SourajitaDewasi/Cryptography/blob/main/ECC_Cipher.c)
 
-(https://avinetworks.com/glossary/elliptic-curve-cryptography/)
+[Code Reference Link](https://avinetworks.com/glossary/elliptic-curve-cryptography/)
