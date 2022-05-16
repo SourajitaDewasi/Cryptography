@@ -1,5 +1,5 @@
 # [Cryptography](https://github.com/SourajitaDewasi/Cryptography)
-Algorithms studied during the Cryptography Course
+Algorithms studied/completed during the Cryptography Course
 # C/C++/Python Implementation of Cryptography Programs 
 1.  Caesar Cipher
 2.  Multiplicative Cipher
