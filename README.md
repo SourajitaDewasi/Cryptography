@@ -1,6 +1,6 @@
 # [Cryptography](https://github.com/SourajitaDewasi/Cryptography)
 Algorithms studied/completed during the Cryptography Course
-# C/C++/Python Implementation of Cryptography Programs 
+# C/C++/Python Implementation of Cryptography Algorithms
 1.  Caesar Cipher
 2.  Multiplicative Cipher
 3.  Affine Cipher
